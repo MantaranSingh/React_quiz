@@ -1,0 +1,9 @@
+.wrong {
+  background-color: lightcoral !important;
+  color: #fff !important;
+}
+
+.correct {
+  background-color: darkseagreen !important;
+  color: #fff !important;
+}
